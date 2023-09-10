@@ -38,6 +38,8 @@ const InnerWrapper = styled(MaxWidthWrapper)`
   align-items: center;
   gap: 48px;
   padding: 16px 32px;
+
+  flex-wrap: wrap;
 `;
 
 const DesktopNav = styled.nav`
